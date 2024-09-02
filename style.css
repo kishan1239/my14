@@ -1009,7 +1009,7 @@
   } 
   
   :root { 
-      --background: 0 0% 0%; 
+      --background:240, 100%, 5%; 
       --foreground: 222.2 84% 225%; 
       --primary: 222.2 47.4% 11.2%; 
       --primary-foreground: 210 40% 98%; 
